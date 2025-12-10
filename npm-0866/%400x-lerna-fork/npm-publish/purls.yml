@@ -1,0 +1,4 @@
+- pkg:npm/%400x-lerna-fork/npm-publish@3.0.0-beta.22
+- pkg:npm/%400x-lerna-fork/npm-publish@3.0.0-beta.25
+- pkg:npm/%400x-lerna-fork/npm-publish@3.16.2
+- pkg:npm/%400x-lerna-fork/npm-publish@3.16.3
